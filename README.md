@@ -2,6 +2,7 @@ Apache Hive (TM)
 ================
 [![Master Build Status](https://travis-ci.org/apache/hive.svg?branch=master)](https://travis-ci.org/apache/hive/branches)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.hive/hive/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.apache.hive%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fhive.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fhive?ref=badge_shield)
 
 The Apache Hive (TM) data warehouse software facilitates reading,
 writing, and managing large datasets residing in distributed storage
@@ -123,3 +124,7 @@ Useful mailing lists
 3. commits@hive.apache.org - In order to monitor commits to the source
    repository. Send an empty email to commits-subscribe@hive.apache.org
    in order to subscribe to this mailing list.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fhive.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fhive?ref=badge_large)
